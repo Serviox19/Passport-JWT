@@ -1,0 +1,23 @@
+{
+  "name": "passport-jwt",
+  "description": "mean app with passport jwt, angular, ect",
+  "main": "server.js",
+  "authors": [
+    "Servio Mora <servio.mora19@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Serviox19/Passport-JWT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.2.18",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "font-awesome": "fontawesome#^4.6.2"
+  }
+}
